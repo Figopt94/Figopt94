@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fabamaq**
 
-- 🌱 I’m currently learning **Javascript and Selenium Webdriver**
+- 🌱 I’m currently learning **Javascript and Cypress**
 
 - 📫 How to reach me **figocaro@gmail.com**
 
